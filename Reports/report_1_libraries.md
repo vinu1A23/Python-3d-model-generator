@@ -5,17 +5,20 @@
 
 ## Index
 
-    1. [Libraries](#lib)
-        1. [Open3D](#open3d)
-        2. [SolidPython](#solid_python)
-        3. [VPython](#vpython)
-        4. [blender3d](#blender3d)
-    2. [Tests](#tests)
-       1. [Import Success](#import)
-       2. [3d Model creation Successful](#create)
-       3. [3d View Successful](#view)
 
-    3. [Citations](#citations)
+
+
+1. [Libraries](#lib)
+    1. [Open3D](#open3d)
+    2. [SolidPython](#solid_python)
+    3. [VPython](#vpython)
+    4. [blender3d](#blender3d)
+2. [Tests](#tests)
+    1. [Import Success](#import)
+    2. [3d Model creation Successful](#create)
+    3. [3d View Successful](#view)
+
+3. [Citations](#citations)
 
 
 
