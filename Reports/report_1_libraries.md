@@ -5,17 +5,17 @@
 
 ## Index
 
-  1. [Libraries](#lib)
-    1. [Open3D](#open3d)
-    2. [SolidPython](#solid_python)
-    3. [VPython](#vpython)
-    4. [blender3d](#blender3d)
-  2. [Tests](#tests)
-    1. [Import Success](#import)
-    2. [3d Model creation Successful](#create)
-    3. [3d View Successful](#view)
+    1. [Libraries](#lib)
+        1. [Open3D](#open3d)
+        2. [SolidPython](#solid_python)
+        3. [VPython](#vpython)
+        4. [blender3d](#blender3d)
+    2. [Tests](#tests)
+       1. [Import Success](#import)
+       2. [3d Model creation Successful](#create)
+       3. [3d View Successful](#view)
 
-  3. [Citations](#citations)
+    3. [Citations](#citations)
 
 
 
@@ -226,13 +226,13 @@ This test was Successful.
 
 
 
-[1] https://www.open3d.org/#:~:text=Open3D%20is%20an%20open%2Dsource,is%20set%20up%20for%20parallelization.
-[2] https://stackoverflow.com/questions/410941/best-modules-to-develop-a-simple-windowed-3d-modeling-application
-[3] https://analyticsindiamag.com/ai-mysteries/top-python-libraries-for-3d-machine-learning/
-[4] https://medium.com/@alexeyyurasov/3d-modeling-with-python-c21296756db2
-[5] https://stackoverflow.com/questions/8510209/best-language-library-for-creating-3d-models-for-rapid-prototyping
-[6] https://github.com/drlukeparry/pyslm
-[7] https://www.quora.com/Is-there-a-software-that-can-be-used-to-generate-Python-codes-while-designing-a-3D-model
-[8] https://sourceforge.net/directory/3d-modeling/python/
-[9] https://towardsdatascience.com/python-libraries-for-mesh-and-point-cloud-visualization-part-1-daa2af36de30
-[10] https://www.reddit.com/r/Python/comments/wedvzi/what_is_the_best_gui_library_for_python/
+1. https://www.open3d.org/#:~:text=Open3D%20is%20an%20open%2Dsource,is%20set%20up%20for%20parallelization.
+2. https://stackoverflow.com/questions/410941/best-modules-to-develop-a-simple-windowed-3d-modeling-application
+3. https://analyticsindiamag.com/ai-mysteries/top-python-libraries-for-3d-machine-learning/
+4. https://medium.com/@alexeyyurasov/3d-modeling-with-python-c21296756db2
+5. https://stackoverflow.com/questions/8510209/best-language-library-for-creating-3d-models-for-rapid-prototyping
+6. https://github.com/drlukeparry/pyslm
+7. https://www.quora.com/Is-there-a-software-that-can-be-used-to-generate-Python-codes-while-designing-a-3D-model
+8. https://sourceforge.net/directory/3d-modeling/python/
+9. https://towardsdatascience.com/python-libraries-for-mesh-and-point-cloud-visualization-part-1-daa2af36de30
+10. https://www.reddit.com/r/Python/comments/wedvzi/what_is_the_best_gui_library_for_python/
