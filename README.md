@@ -1,1 +1,1 @@
-# Python-3d-model-genrator
+# Python-3d-model-generator
