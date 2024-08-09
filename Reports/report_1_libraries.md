@@ -4,21 +4,104 @@
 
 
 ## Index
+1. [Environment Setup](#env)
+    1. [Endeavour OS](#endeavour)
+    2. [Python 3.12](#py3.12)
+    3. [Kate](#kate)
+    4. [pip 24.2](#pip2.42)
+    5. [SolidPython 2](#solid2)
+
+2. [Experiments Methodology](#methodology)
+    1. [Libraries](#lib)
+        1. [Open3D](#open3d)
+        2. [SolidPython](#solid_python)
+        3. [VPython](#vpython)
+        4. [blender3d](#blender3d)
+    2. [Tests](#tests)
+        1. [Import Success](#import)
+        2. [3d Model creation Successful](#create)
+        3. [3d View Successful](#view)
+3. [Results](#results)
+4. [Citations](#citations)
+
+
+<a id="env"></a>
 
 
 
 
-1. [Libraries](#lib)
-    1. [Open3D](#open3d)
-    2. [SolidPython](#solid_python)
-    3. [VPython](#vpython)
-    4. [blender3d](#blender3d)
-2. [Tests](#tests)
-    1. [Import Success](#import)
-    2. [3d Model creation Successful](#create)
-    3. [3d View Successful](#view)
+## Environment Setup
 
-3. [Citations](#citations)
+
+
+
+<a id="endeavour"></a>
+
+
+
+
+#### Endeavour OS
+
+
+
+
+Endeavour OS provides an Arch-based user-friendly Linux experience.
+
+
+
+
+<a id="py3.12"></a>
+
+
+
+
+#### Python 3.12
+
+
+
+
+Python 3.12 introduces significant enhancements aimed at performance and usability.
+
+
+
+
+<a id="kate"></a>
+
+
+
+
+#### Kate
+
+
+
+
+ Kate serves as a versatile text editor ideal for coding tasks.
+
+
+
+
+ <a id="pip2.42"></a>
+
+
+
+
+#### pip 24.2
+
+
+
+
+ pip version 24.2 improves package management efficiency in Python projects.
+
+
+
+
+ <a id="solid2"></a>
+
+
+
+
+#### SolidPython 2
+
 
 
 
