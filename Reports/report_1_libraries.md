@@ -166,7 +166,7 @@ There are several Python libraries and tools that support 3D modeling. Here's a 
 
 
 
-### 1. **Open3D**
+### 1. **[Open3D](https://pypi.org/project/open3d/0.18.0/)**
 
 
 
@@ -184,7 +184,7 @@ There are several Python libraries and tools that support 3D modeling. Here's a 
 
 
 
-### 2. **SolidPython**
+### 2. **[SolidPython](https://pypi.org/project/solidpython2/2.1.0/)**
 
 
 
@@ -201,7 +201,7 @@ There are several Python libraries and tools that support 3D modeling. Here's a 
 
 
 
-### 3. **PyVista**
+### 3. **[PyVista](https://pypi.org/project/pyvista/0.44.1/)**
 
 
 
@@ -220,7 +220,7 @@ There are several Python libraries and tools that support 3D modeling. Here's a 
 
 
 
-### 4. **VPython**
+### 4. **[VPython](https://pypi.org/project/vpython/7.6.5/)**
 
 
 
@@ -239,7 +239,7 @@ There are several Python libraries and tools that support 3D modeling. Here's a 
 
 
 
-### 5. **Blender 3D**
+### 5. **[Blender 3D](https://www.blender.org/)**
 
 
 
@@ -391,3 +391,14 @@ This test was Successful.
 8. https://sourceforge.net/directory/3d-modeling/python/
 9. https://towardsdatascience.com/python-libraries-for-mesh-and-point-cloud-visualization-part-1-daa2af36de30
 10. https://www.reddit.com/r/Python/comments/wedvzi/what_is_the_best_gui_library_for_python/
+11. [Endeavour OS](https://endeavouros.com/news/our-fifth-anniversary-the-return-of-arm-and-the-endeavour-release-with-plasma-6-1-is-here/)
+12. [Python 3.12](https://www.python.org/downloads/release/python-3120/)
+13. [Kate](https://kate-editor.org/get-it/)
+14. [pip 24.2](https://pypi.org/project/pip/24.2/)
+15. [SolidPython 2](https://pypi.org/project/solidpython2/2.1.0/)
+16. [Open3D](https://pypi.org/project/open3d/0.18.0/)
+18. [PyVista](https://pypi.org/project/pyvista/0.44.1/)
+19. [VPython](https://pypi.org/project/vpython/7.6.5/)
+20. [Blender 3D](https://www.blender.org/)
+21. [Pytorch 3D (Version 0.7.6)](https://pypi.org/project/pipablepytorch3d/0.7.6/)
+22. [Numpy STL (Version 3.1.2)](https://pypi.org/project/numpy-stl/3.1.2/)
