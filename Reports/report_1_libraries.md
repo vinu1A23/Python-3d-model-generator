@@ -15,8 +15,11 @@
     1. [Libraries](#lib)
         1. [Open3D](#open3d)
         2. [SolidPython](#solid_python)
-        3. [VPython](#vpython)
-        4. [blender3d](#blender3d)
+        3. [PyVista](#pyvista)
+        4. [VPython](#vpython)
+        5. [blender3d](#blender3d)
+        6. [Pytorch 3D (Version 0.7.6)](pytorch3d)
+        7. [Numpy STL (Version 3.1.2)](numpy-stl)
     2. [Tests](#tests)
         1. [Import Success](#import)
         2. [3d Model creation Successful](#create)
@@ -40,7 +43,7 @@
 
 
 
-#### Endeavour OS
+#### [Endeavour OS](https://endeavouros.com/news/our-fifth-anniversary-the-return-of-arm-and-the-endeavour-release-with-plasma-6-1-is-here/)
 
 
 
@@ -55,7 +58,7 @@ Endeavour OS provides an Arch-based user-friendly Linux experience.
 
 
 
-#### Python 3.12
+#### [Python 3.12](https://www.python.org/downloads/release/python-3120/)
 
 
 
@@ -70,7 +73,7 @@ Python 3.12 introduces significant enhancements aimed at performance and usabili
 
 
 
-#### Kate
+#### [Kate](https://kate-editor.org/get-it/)
 
 
 
@@ -85,7 +88,7 @@ Python 3.12 introduces significant enhancements aimed at performance and usabili
 
 
 
-#### pip 24.2
+#### [pip 24.2](https://pypi.org/project/pip/24.2/)
 
 
 
@@ -100,8 +103,43 @@ Python 3.12 introduces significant enhancements aimed at performance and usabili
 
 
 
-#### SolidPython 2
+#### [SolidPython 2](https://pypi.org/project/solidpython2/2.1.0/)
 
+
+
+
+SolidPython version 2 enhances parametric modeling capabilities using OpenSCAD syntax within Python.
+
+
+
+
+
+
+<a id="methodology"></a>
+
+
+
+
+##  Experiments Methodology
+
+
+
+
+We searched through google search engine for libraries which supported 3d modelling in python and gathered these libraries.
+
+1. [Open3D](#open3d)
+2. [SolidPython](#solid_python)
+3. [PyVista](#pyvista)
+4. [VPython](#vpython)
+5. [blender3d](#blender3d)
+6. [Pytorch 3D (Version 0.7.6)](pytorch3d)
+7. [Numpy STL (Version 3.1.2)](numpy-stl)
+
+From these we then tried [Solidpython 2](#solid2) and performed 3 tests:
+
+1. [Import](#import)
+2. [Model creation](#create)
+3. [Model View](#view)
 
 
 
@@ -116,7 +154,7 @@ Python 3.12 introduces significant enhancements aimed at performance and usabili
 
 
 
-there are several Python libraries and tools that support 3D modeling. Here's a breakdown of some notable options:
+There are several Python libraries and tools that support 3D modeling. Here's a breakdown of some notable options:
 
 
 
@@ -209,7 +247,38 @@ there are several Python libraries and tools that support 3D modeling. Here's a 
 
 - **Description**: Although not a Python library per se, Blender 3D is an open-source 3D modeling tool written in Python. It features an OpenGL viewport responsive to mouse events and has extensive 3D modeling capabilities. Blender serves as an inspiration for those looking to develop custom 3D modeling tools [2].
 
-Each of these tools and libraries has its strengths and is suited to different types of 3D modeling projects. Open3D and SolidPython stand out for their comprehensive feature sets and ease of use, making them excellent choices for a wide range of 3D modeling tasks. PyVista offers unique advantages for visualization, while VPython and Blender provide more specialized tools for certain types of projects.
+
+
+
+
+
+<a id="pytorch3d"></a>
+
+
+
+
+### 6. [Pytorch 3D (Version 0.7.6)](https://pypi.org/project/pipablepytorch3d/0.7.6/)
+
+
+
+
+PyTorch3D is designed to integrate smoothly with deep learning methods for predicting and manipulating 3D data.
+
+
+
+
+<a id="numpy-stl"></a>
+
+
+
+
+### 7. [Numpy STL (Version 3.1.2)](https://pypi.org/project/numpy-stl/3.1.2/)
+
+
+
+
+
+Simple library to make working with STL files (and 3D objects in general) fast and easy.
 
 
 
