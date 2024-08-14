@@ -43,7 +43,7 @@
 
 
 
-#### [Endeavour OS](https://endeavouros.com/news/our-fifth-anniversary-the-return-of-arm-and-the-endeavour-release-with-plasma-6-1-is-here/)
+### [Endeavour OS](https://endeavouros.com/news/our-fifth-anniversary-the-return-of-arm-and-the-endeavour-release-with-plasma-6-1-is-here/)
 
 
 
@@ -58,7 +58,7 @@ Endeavour OS provides an Arch-based user-friendly Linux experience.
 
 
 
-#### [Python 3.12](https://www.python.org/downloads/release/python-3120/)
+### [Python 3.12](https://www.python.org/downloads/release/python-3120/)
 
 
 
@@ -73,7 +73,7 @@ Python 3.12 introduces significant enhancements aimed at performance and usabili
 
 
 
-#### [Kate](https://kate-editor.org/get-it/)
+### [Kate](https://kate-editor.org/get-it/)
 
 
 
@@ -88,7 +88,7 @@ Python 3.12 introduces significant enhancements aimed at performance and usabili
 
 
 
-#### [pip 24.2](https://pypi.org/project/pip/24.2/)
+### [pip 24.2](https://pypi.org/project/pip/24.2/)
 
 
 
@@ -103,7 +103,7 @@ Python 3.12 introduces significant enhancements aimed at performance and usabili
 
 
 
-#### [SolidPython 2](https://pypi.org/project/solidpython2/2.1.0/)
+### [SolidPython 2](https://pypi.org/project/solidpython2/2.1.0/)
 
 
 
@@ -148,7 +148,7 @@ From these we then tried [Solidpython 2](#solid2) and performed 3 tests:
 
 
 
-## Libraries
+### Libraries
 
 
 
@@ -166,13 +166,13 @@ There are several Python libraries and tools that support 3D modeling. Here's a 
 
 
 
-### 1. **[Open3D](https://pypi.org/project/open3d/0.18.0/)**
+#### 1. [Open3D (Version 0.18.0)](https://pypi.org/project/open3d/0.18.0/)
 
 
 
 
 
-- **Description**: Open3D is an open-source library designed for efficient and easy processing of 3D data. It provides a wide range of functionalities including 3D data structures, processing algorithms, scene reconstruction, surface alignment, 3D visualization with physically-based rendering (PBR), and support for 3D machine learning with PyTorch and TensorFlow. Open3D is available in both C++ and Python versions, offering GPU acceleration for core 3D operations [1].
+Open3D is an open-source library designed for efficient and easy processing of 3D data. It provides a wide range of functionalities including 3D data structures, processing algorithms, scene reconstruction, surface alignment, 3D visualization with physically-based rendering (PBR), and support for 3D machine learning with PyTorch and TensorFlow. Open3D is available in both C++ and Python versions, offering GPU acceleration for core 3D operations .
 
 
 
@@ -184,13 +184,13 @@ There are several Python libraries and tools that support 3D modeling. Here's a 
 
 
 
-### 2. **[SolidPython](https://pypi.org/project/solidpython2/2.1.0/)**
+#### 2. [SolidPython 2](https://pypi.org/project/solidpython2/2.1.0/)
 
 
 
 
 
-- **Description**: SolidPython is a rich modeling library that allows for the creation of 3D scenes in a format similar to OpenSCAD. It generates OpenSCAD code that can be edited or directly saved to STL files. This library is particularly useful for creating complex 3D models and performing operations like moving, rotating, merging, and subtracting shapes [4].
+SolidPython is a rich modeling library that allows for the creation of 3D scenes in a format similar to OpenSCAD. It generates OpenSCAD code that can be edited or directly saved to STL files. This library is particularly useful for creating complex 3D models and performing operations like moving, rotating, merging, and subtracting shapes .
 
 
 
@@ -201,13 +201,13 @@ There are several Python libraries and tools that support 3D modeling. Here's a 
 
 
 
-### 3. **[PyVista](https://pypi.org/project/pyvista/0.44.1/)**
+#### 3. [PyVista](https://pypi.org/project/pyvista/0.44.1/)
 
 
 
 
 
-- **Description**: PyVista is a Python library for 3D plotting and mesh analysis, providing a streamlined interface for the Visualization Toolkit (VTK). It facilitates the visualization of depth maps and meshes from STL files among other features. PyVista is suitable for those who need advanced visualization capabilities alongside 3D modeling [4].
+PyVista is a Python library for 3D plotting and mesh analysis, providing a streamlined interface for the Visualization Toolkit (VTK). It facilitates the visualization of depth maps and meshes from STL files among other features. PyVista is suitable for those who need advanced visualization capabilities alongside 3D modeling .
 
 
 
@@ -220,13 +220,13 @@ There are several Python libraries and tools that support 3D modeling. Here's a 
 
 
 
-### 4. **[VPython](https://pypi.org/project/vpython/7.6.5/)**
+#### 4. [VPython](https://pypi.org/project/vpython/7.6.5/)
 
 
 
 
 
-- **Description**: Mentioned as a recommendation for developing a basic 3D modeling tool, VPython is known for its built-in mouse support and convenience functions for translating mouse-space coordinates to 3D world space. While it might not offer the same level of complexity as some other options, it could be a good starting point for simpler applications [2].
+Mentioned as a recommendation for developing a basic 3D modeling tool, VPython is known for its built-in mouse support and convenience functions for translating mouse-space coordinates to 3D world space. While it might not offer the same level of complexity as some other options, it could be a good starting point for simpler applications .
 
 
 
@@ -239,13 +239,13 @@ There are several Python libraries and tools that support 3D modeling. Here's a 
 
 
 
-### 5. **[Blender 3D](https://www.blender.org/)**
+#### 5. [Blender 3D](https://www.blender.org/)
 
 
 
 
 
-- **Description**: Although not a Python library per se, Blender 3D is an open-source 3D modeling tool written in Python. It features an OpenGL viewport responsive to mouse events and has extensive 3D modeling capabilities. Blender serves as an inspiration for those looking to develop custom 3D modeling tools [2].
+Although not a Python library per se, Blender 3D is an open-source 3D modeling tool written in Python. It features an OpenGL viewport responsive to mouse events and has extensive 3D modeling capabilities. Blender serves as an inspiration for those looking to develop custom 3D modeling tools .
 
 
 
@@ -257,7 +257,7 @@ There are several Python libraries and tools that support 3D modeling. Here's a 
 
 
 
-### 6. [Pytorch 3D (Version 0.7.6)](https://pypi.org/project/pipablepytorch3d/0.7.6/)
+#### 6. [Pytorch 3D (Version 0.7.6)](https://pypi.org/project/pipablepytorch3d/0.7.6/)
 
 
 
@@ -272,7 +272,7 @@ PyTorch3D is designed to integrate smoothly with deep learning methods for predi
 
 
 
-### 7. [Numpy STL (Version 3.1.2)](https://pypi.org/project/numpy-stl/3.1.2/)
+#### 7. [Numpy STL (Version 3.1.2)](https://pypi.org/project/numpy-stl/3.1.2/)
 
 
 
@@ -289,7 +289,7 @@ Simple library to make working with STL files (and 3D objects in general) fast a
 
 
 
-## Tests
+### Tests
 
 
 
@@ -300,7 +300,7 @@ Simple library to make working with STL files (and 3D objects in general) fast a
 
 
 
-### Import Success
+#### Import Success
 
 
 
@@ -351,7 +351,37 @@ This test was Successful.
 
 
 
-### 3d Model creation Successful
+#### 3d Model creation Successful
+
+
+
+
+
+A model can be created in solidpython2 simply by writing the name of the shape and its perimeters.
+
+This model can then be saved as a scad file and viewed in Openscad or any other online scad file viewer.
+
+The name of the scad file is same as that of the python file which saved that model.
+
+
+
+
+```
+
+
+
+
+from solid2 import *
+
+
+d = cube(5) + sphere(5).right(5) - cylinder(r=2, h=6)
+
+d.save_as_scad()
+
+
+
+
+```
 
 
 
@@ -361,8 +391,13 @@ This test was Successful.
 
 
 
+#### 3d View Successful
 
-### 3d View Successful
+
+
+
+
+We viewed the file in an online scad viewer
 
 
 
@@ -381,16 +416,16 @@ This test was Successful.
 
 
 
-1. https://www.open3d.org/#:~:text=Open3D%20is%20an%20open%2Dsource,is%20set%20up%20for%20parallelization.
-2. https://stackoverflow.com/questions/410941/best-modules-to-develop-a-simple-windowed-3d-modeling-application
-3. https://analyticsindiamag.com/ai-mysteries/top-python-libraries-for-3d-machine-learning/
-4. https://medium.com/@alexeyyurasov/3d-modeling-with-python-c21296756db2
-5. https://stackoverflow.com/questions/8510209/best-language-library-for-creating-3d-models-for-rapid-prototyping
-6. https://github.com/drlukeparry/pyslm
-7. https://www.quora.com/Is-there-a-software-that-can-be-used-to-generate-Python-codes-while-designing-a-3D-model
-8. https://sourceforge.net/directory/3d-modeling/python/
-9. https://towardsdatascience.com/python-libraries-for-mesh-and-point-cloud-visualization-part-1-daa2af36de30
-10. https://www.reddit.com/r/Python/comments/wedvzi/what_is_the_best_gui_library_for_python/
+1. [Open3D setup for parallelization](https://www.open3d.org/#:~:text=Open3D%20is%20an%20open%2Dsource,is%20set%20up%20for%20parallelization)
+2. [Best Modules to develop a simple windowed 3D modeling application](https://stackoverflow.com/questions/410941/best-modules-to-develop-a-simple-windowed-3d-modeling-application)
+3. [Top python libraries for 3D machine learning](https://analyticsindiamag.com/ai-mysteries/top-python-libraries-for-3d-machine-learning/)
+4. [3D modelling with python](https://medium.com/@alexeyyurasov/3d-modeling-with-python-c21296756db2)
+5. [Best language and library for rapid 3D model prototyping](https://stackoverflow.com/questions/8510209/best-language-library-for-creating-3d-models-for-rapid-prototyping)
+6. [Pyslm](https://github.com/drlukeparry/pyslm)
+7. [Software to generate Python codes while designing 3D model](https://www.quora.com/Is-there-a-software-that-can-be-used-to-generate-Python-codes-while-designing-a-3D-model)
+8. [Python 3D modeling at sourceforge.net](https://sourceforge.net/directory/3d-modeling/python/)
+9. [Python libraries for mesh and point cloud visualization part 1](https://towardsdatascience.com/python-libraries-for-mesh-and-point-cloud-visualization-part-1-daa2af36de30)
+10. [What is the best gui library for python](https://www.reddit.com/r/Python/comments/wedvzi/what_is_the_best_gui_library_for_python/)
 11. [Endeavour OS](https://endeavouros.com/news/our-fifth-anniversary-the-return-of-arm-and-the-endeavour-release-with-plasma-6-1-is-here/)
 12. [Python 3.12](https://www.python.org/downloads/release/python-3120/)
 13. [Kate](https://kate-editor.org/get-it/)
