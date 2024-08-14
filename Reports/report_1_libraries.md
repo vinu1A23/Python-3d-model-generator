@@ -383,12 +383,16 @@ d = cube(5) + sphere(5).right(5) - cylinder(r=2, h=6)
 
 d.save_as_scad()
 
-<a id="view"></a>
-
 
 
 
 ```
+
+
+
+
+<a id="view"></a>
+
 
 
 
@@ -441,7 +445,7 @@ We successfull imported Solidpython2, created a 3d model and viewed it in an onl
 
 1. Try pytorch3d as it was mentioned in [this medium post](https://medium.com/@alexeyyurasov/3d-modeling-with-python-c21296756db2) that pytorch3d takes 95 % less time than Solidpython2 for fractal calculation.
 
-2. Try existing  solutions and research on 3d Model generating.
+2. Try existing  solutions and research on 3d Model generation.
 
 
 
