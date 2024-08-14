@@ -25,7 +25,8 @@
         2. [3d Model creation Successful](#create)
         3. [3d View Successful](#view)
 3. [Results](#results)
-4. [Citations](#citations)
+4. [Future Steps](#fsteps)
+5. [Citations](#citations)
 
 
 <a id="env"></a>
@@ -339,7 +340,7 @@ import solid2
 
 
 
-This test was Successful.
+[This test](../Tests/Test1_import_solid2_successful.py) was Successful.
 
 
 
@@ -363,6 +364,10 @@ This model can then be saved as a scad file and viewed in Openscad or any other 
 
 The name of the scad file is same as that of the python file which saved that model.
 
+The model file generated is [here](../Models-3d/Test2_create_3d_object_successful.scad)
+
+The test code is [following](../Tests/Test2_create_3d_object_successful.py)
+
 
 
 
@@ -378,15 +383,13 @@ d = cube(5) + sphere(5).right(5) - cylinder(r=2, h=6)
 
 d.save_as_scad()
 
+<a id="view"></a>
+
 
 
 
 ```
 
-
-
-
-<a id="view"></a>
 
 
 
@@ -398,6 +401,48 @@ d.save_as_scad()
 
 
 We viewed the file in an online scad viewer
+
+
+![Test 3 image view](../Images/Test_3_image_3d_model_08142024.png)
+
+
+
+
+
+
+
+
+<a id="results"></a>
+
+
+
+
+
+## Results
+
+
+
+
+
+We successfull imported Solidpython2, created a 3d model and viewed it in an online scad file viewer.
+
+
+
+
+<a id="fsteps"></a>
+
+
+
+
+## Future steps
+
+
+
+
+1. Try pytorch3d as it was mentioned in [this medium post](https://medium.com/@alexeyyurasov/3d-modeling-with-python-c21296756db2) that pytorch3d takes 95 % less time than Solidpython2 for fractal calculation.
+
+2. Try existing  solutions and research on 3d Model generating.
+
 
 
 
