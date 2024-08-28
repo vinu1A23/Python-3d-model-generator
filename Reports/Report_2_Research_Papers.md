@@ -13,10 +13,13 @@
 2. [Experiments Methodology](#methodology)
     1. [Research Papers](#papers)
         1. [Nerf](#nerf)
-        2.  [Advances in 3D Generation: A Survey](#gen_survey)
+        2. [Advances in 3D Generation: A Survey](#gen_survey)
+        3. [Rapid 3D Model Generation with Intuitive 3D Input](#vr3d)
+        4. [GPT4PoinT](#gpt4point)
 3. [Results](#results)
 4. [Future Steps](#fsteps)
 5. [References](#citations)
+
 
 
 
@@ -157,6 +160,44 @@ Excerpts taken from [here - Single-Stage Diffusion NeRF: A Unified Approach to 3
 
 
 This research paper outlines research conducted till January 2024 in the field of 3d Content generation.
+
+
+
+
+
+
+
+<a id="vr3d"></a>
+
+
+
+
+
+### [Rapid 3D Model Generation with Intuitive 3D Input](https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_Rapid_3D_Model_Generation_with_Intuitive_3D_Input_CVPR_2024_paper.pdf)
+
+
+
+
+Since beginners can effortlessly sketch 3D paths in the air using AR/VR 3D sketching tools, the model presented in this paper enables easier 3D model generation.
+
+
+Excerpt taken from [here](https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_Rapid_3D_Model_Generation_with_Intuitive_3D_Input_CVPR_2024_paper.pdf) and edited to suit the tone of this report.
+
+
+
+
+<a id = "gpt4point"></a>
+
+
+
+
+### [GPT4PoinT](https://github.com/Pointcept/GPT4Point)
+<a id="results"></a>
+
+
+
+
+Text based 3D model generation.
 
 
 
