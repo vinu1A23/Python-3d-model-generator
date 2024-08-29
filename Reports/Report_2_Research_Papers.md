@@ -24,7 +24,6 @@
 
 
 
-
 <a id="env"></a>
 
 
@@ -111,8 +110,7 @@ Python 3.12 introduces significant enhancements aimed at performance and usabili
 
 
 
-We searched through google search engine for research papers which supported 3d model generation.
-
+We searched through google search engine for research papers which supported 3d model generation in python.
 
 
 
@@ -164,9 +162,6 @@ This research paper outlines research conducted till January 2024 in the field o
 
 
 
-
-
-
 <a id="vr3d"></a>
 
 
@@ -192,14 +187,11 @@ Excerpt taken from [here](https://openaccess.thecvf.com/content/CVPR2024/papers/
 
 
 ### [GPT4PoinT](https://github.com/Pointcept/GPT4Point)
-<a id="results"></a>
 
 
 
 
 Text based 3D model generation.
-
-
 
 
 
@@ -216,7 +208,8 @@ Text based 3D model generation.
 
 
 
-Insert result here
+We have listed research paper resources enough to understand the current landscape of 3D content generation.
+
 
 
 
@@ -231,7 +224,11 @@ Insert result here
 
 
 
-Insert future steps here
+The steps which can be considered are:
+
+
+1. Read the [Advances in 3D Generation: A Survey](https://arxiv.org/pdf/2401.17807) completely and understand its content.
+2. Trying 3D GAN as the basic model for 3D content generation.
 
 
 
@@ -248,5 +245,13 @@ Insert future steps here
 
 
 
-Insert references here
+1. [Endeavour OS](https://endeavouros.com/news/our-fifth-anniversary-the-return-of-arm-and-the-endeavour-release-with-plasma-6-1-is-here/)
+2. [Python 3.12](https://www.python.org/downloads/release/python-3120/)
+3. [Kate](https://kate-editor.org/get-it/)
+4. [pip 24.2](https://pypi.org/project/pip/24.2/)
+5. [NeRF](https://www.matthewtancik.com/nerf)
+6. [Single-Stage Diffusion NeRF: A Unified Approach to 3D Generation and Reconstruction](https://lakonik.github.io/ssdnerf/)
+7. [Advances in 3D Generation: A Survey](https://arxiv.org/pdf/2401.17807)
+8. [Rapid 3D Model Generation with Intuitive 3D Input](https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_Rapid_3D_Model_Generation_with_Intuitive_3D_Input_CVPR_2024_paper.pdf)
+9. [GPT4PoinT](https://github.com/Pointcept/GPT4Point)
 
